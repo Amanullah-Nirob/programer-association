@@ -1,0 +1,13 @@
+.cart-details {
+    text-align: center;
+    text-transform: capitalize;
+}
+.total-member{
+    color: rgba(334, 334, 33, 1.63);
+}
+.total-cost{
+    color: #fff;
+}
+.total-cost span{
+    color: rgba(334, 334, 33, 1.63);
+}

@@ -1,0 +1,18 @@
+.main-area{
+    width: 79%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+.Team-member-area{
+flex-basis: 80%;
+ display: grid;
+ grid-template-columns: repeat(3,1fr);
+ grid-gap: 29px;
+margin: 40px 0;
+}
+.cart-area {
+    flex-basis: 18%;
+    margin-top: 34px;
+    padding: 0 15px;
+}

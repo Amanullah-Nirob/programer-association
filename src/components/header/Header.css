@@ -1,0 +1,13 @@
+.header-area{
+    width: 79%;
+    background-color:#000000cc;
+    margin:  0 auto;
+    color: #fff;
+    text-align: center;
+    text-transform: capitalize;
+    padding: 24px 0;
+    border-radius: 0px 0px 12px 12px;
+}
+.header-title{
+    color: rgba(334, 334, 33, 1.63);
+}

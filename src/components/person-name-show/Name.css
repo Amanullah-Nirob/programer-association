@@ -1,0 +1,20 @@
+.small-cart{
+    display: flex;
+    background-color: rgb(0 0 0 / 86%);
+    align-items: center;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.small-cart img {
+    width: 90px;
+    height: 90px;
+    text-align: center;
+    border-radius: 5px;
+    margin-right: 4px;
+}
+.small-cart-detils p {
+    line-height: 1px;
+color: #fff
+}
+
