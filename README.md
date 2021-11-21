@@ -4,13 +4,13 @@ This project was plain css with [Programer Association ](https://loving-albattan
 
 ## Available information 1  
 
-**What is the purpose of this Programer Association ?**
+*What is the purpose of this Programer Association ?*
 
 *The purpose of the website is to form an association with the inventors of all programming languages, through which the programming sciences can be made more and more famous. The program association project is moving forward with the development objective*
 
 ## Available information 2
 
-**How can you benefit from this Programer Association website? **
+*How can you benefit from this Programer Association website?*
 
 *If you are a programmer or your love for programming works, you can benefit a lot by joining this association, this association will play a great role in making your programming life easier.*
 
